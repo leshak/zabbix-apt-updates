@@ -6,7 +6,10 @@ Template for monitoring APT Regular packages updates and Security packages updat
 
 # Requirements
 
-1. Install the zabbix-sender & update-notifier-common packages `sudo apt-get install zabbix-sender update-notifier-common`
+1. Install the zabbix-sender & update-notifier-common packages
+    ```
+    sudo apt-get install zabbix-sender update-notifier-common
+    ```
 
 # Installation
 
